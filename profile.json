@@ -1,18 +1,16 @@
 {
 	"basics": {
-		"name": "Kishore",
-		"label": "Architect",
+		"name": "Leandro A. Siqueira",
+		"label": "Senior Front-end Developer",
 		"picture": "profile.jpg",
-		"email": "prakis@gmail.com",
-		"phone": "(912) 98765-4321",
-		"website": "https://pagadala.me/about/",
-		"twitter": "https://twitter.com/prakis",
-		"facebook": "https://www.facebook.com/Stringify.me",
-		"github": "http://github.com/prakis",
-		"summary": "I work as a consultant, designing and developing web (<b>ReactJS</b>, <b>NodeJS</b>) & desktop (<b>C#</b>, <b>JavaFX</b>) apps. I have over 14 years experience in software development and 2 years in Nanotechnology."
+		"email": "leandroaps@gmail.com",
+		"phone": "+55 19 99111-2239",
+		"twitter": "https://twitter.com/leandroaps",
+		"github": "http://github.com/leandroaps",
+		"summary": "Front-end Developer @UOL"
 	},
 	"theme": {
 		"url": "https://github.com/prakis/stringify.me-theme",
-		"background" :"#f98008"
+		"background": "#f98008"
 	}
 }
